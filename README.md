@@ -1,4 +1,5 @@
-# To-Do-List Creating a simple To-Do List application using JavaScript, HTML, and CSS is a great way to learn the basics of web development. Let’s break down the steps to create a functional To-Do List:
+# To-Do-List 
+Creating a simple To-Do List application using JavaScript, HTML, and CSS is a great way to learn the basics of web development. Let’s break down the steps to create a functional To-Do List:
 
 HTML Structure:
 Start by creating the basic HTML structure for your To-Do List. You’ll need an input field for adding tasks, a button to add tasks, and a list to display the tasks.
